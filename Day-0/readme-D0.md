@@ -4,28 +4,28 @@
 
 > learning the basics:
 
--         **irb** / quit, exit, ctrl+d
--          puts " " / nill  ### like print BUT always ads a line with a new line:   Welcome
-                                                                                    Welcome
-                                                                                    Welcome
+-           **irb** / quit, exit, ctrl+d
+-            puts " " / nill  ### like print BUT always ads a line with a new line:   Welcome
+                                                                                      Welcome
+                                                                                      Welcome
 
--          integer division returns integer so watch out: 1.0 / 2 = 0.5 would be the correct form  ###float
+-            integer division returns integer so watch out: 1.0 / 2 = 0.5 would be the correct form  ###float
 
--         STRING INTERPOLATION
+-           STRING INTERPOLATION
 
--          METHODS
-            .include?
-            .length
-            .reverse
-            .upcase
-            .downcase
-            .squeeze.  ###remove repeated characters i.e. Good becomes Gd
+-            METHODS
+              .include?
+              .length
+              .reverse
+              .upcase
+              .downcase
+              .squeeze.  ###remove repeated characters i.e. Good becomes Gd
 
--           rbenv   ###Ruby environment.  ### among others, we updated my Ruby version and next we will add the capacity to process old Ruby codes
+-             rbenv   ###Ruby environment.  ### among others, we updated my Ruby version and next we will add the capacity to process old Ruby codes
 
     PS. I already had **Homebrew** installed - if needed, here's a tutorial: https://www.codementor.io/@akabiru/3-steps-set-up-ruby-environment-macos-6mavm7jrl
 
--           Gem file   ###for checking code's Ruby version
+-             Gem file   ###for checking code's Ruby version
 
 !!!!!! Github's mascote is a female! **MONA** : https://octodex.github.com/
 
