@@ -7,4 +7,6 @@ Here we gooooo!
 
 ! In case a push of a Folder does not appear in Github but it does appear in your local and remote (Git) project, surprise! surprise!: Github ignores, aka does not display folders unless there is a file inside. Meaning: empty folder are ghosted o.0
 
-! Ruby operators: https://www.tutorialspoint.com/ruby/ruby_operators.htm
+! Ruby operators:
+
+testing link blank: <a href=" https://www.tutorialspoint.com/ruby/ruby_operators.htm/" target="_blank">Ruby Operators</a>
