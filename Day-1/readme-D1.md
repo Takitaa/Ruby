@@ -2,6 +2,6 @@ Still to come....
 
 **Have it ready:**
 
--   [ ] Slack active
--   [ ] emails pws
+-   [x] Slack active
+-   [x] email pw
 -   [ ] Finished watching Ruby Demo (application) video
